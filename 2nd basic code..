@@ -1,0 +1,14 @@
+<?php
+    $num1= 10;
+    $num2= - 30;
+    echo abs($num2);
+    echo "<br>";
+    echo round($num1);
+    echo "<br>";
+    
+    $num3 =3.46;
+    $val = (int)$num3;
+    echo $val;
+    echo "</br>";
+
+?>
