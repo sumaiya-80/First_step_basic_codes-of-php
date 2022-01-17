@@ -1,0 +1,13 @@
+<?php
+$x =10;
+$y = 100;
+$z= 200;
+echo $x==$y;
+echo "<br>";
+echo $x > $y;
+echo "<br>";
+echo $y<$z;
+echo "<br>";
+echo $z>=$y;
+    
+?>
