@@ -1,0 +1,32 @@
+<?php
+echo "My name : ";
+
+$name= "Sumaiya";
+$l_name="Mahnoor";
+echo $name;
+echo "<br>";
+
+echo $l_name;
+echo "<br>";
+echo $name." ".$l_name;
+echo "<br>";
+echo "length: ";
+echo strlen($name);
+echo "<br>";
+echo " My name ulta version: ";
+echo strrev($name);
+echo "<br>";
+
+$num3=5;
+$num4=10;
+echo " total:";
+echo $num3 + $num4;
+echo "<br>";
+
+ $num1= 10;
+    $num2= 30;
+    echo "<br>";
+    echo $num1 * $num2;
+    echo "<br>";
+    echo $num1 ** $num2;
+?>
